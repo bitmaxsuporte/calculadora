@@ -1,9 +1,9 @@
 const baseCosts = [
-  { item: "Cimento CP-V ARI (saco)", unid: "un", quant: 10.00 },
+  { item: "Cimento CP-V ARI (saco)", unid: "un", quant: 20.00 },
   { item: "Areia", unid: "m³", quant: 0.50 },
   { item: "Brita", unid: "m³", quant: 0.50 },
-  { item: "Aço CA-50 - 12,5mm", unid: "kg", quant: 77.0 },
-  { item: "Aço CA-50 - 4,2mm", unid: "kg", quant: 7.85 }
+  { item: "Aço CA-50 - 12,5mm", unid: "kg", quant: 154.0 },
+  { item: "Aço CA-50 - 4,2mm", unid: "kg", quant: 15.70 }
 ];
 
 function calculateCost() {
